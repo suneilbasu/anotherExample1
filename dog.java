@@ -3,5 +3,6 @@ public class dog{
 		System.out.println("dog");
 		System.out.println("Cat");
 		System.out.println("Mouse and Rat");
+		System.out.println("Cow");
 	}
 }
